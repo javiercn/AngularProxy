@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34530.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularProxy.Server", "AngularProxy.Server\AngularProxy.Server.csproj", "{BE7BCF6D-19FA-492C-A6C9-DBD749F51A98}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "angularproxy.client", "angularproxy.client\angularproxy.client.esproj", "{9210219B-871B-4EE4-8945-0FD3C8DCF56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE7BCF6D-19FA-492C-A6C9-DBD749F51A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7BCF6D-19FA-492C-A6C9-DBD749F51A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7BCF6D-19FA-492C-A6C9-DBD749F51A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7BCF6D-19FA-492C-A6C9-DBD749F51A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9210219B-871B-4EE4-8945-0FD3C8DCF56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9210219B-871B-4EE4-8945-0FD3C8DCF56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9210219B-871B-4EE4-8945-0FD3C8DCF56D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9210219B-871B-4EE4-8945-0FD3C8DCF56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9210219B-871B-4EE4-8945-0FD3C8DCF56D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9210219B-871B-4EE4-8945-0FD3C8DCF56D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966EAC9A-41F1-42FF-8832-E7284EFFB7E7}
+	EndGlobalSection
+EndGlobal
